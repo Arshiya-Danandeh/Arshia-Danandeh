@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
+- 📚 I'm currently busy with university courses.
+
 - 👨‍💻 All of my projects are available at [https://github.com/Arshia-Danandeh](https://github.com/Arshia-Danandeh)
 
 - 💬 Ask me about **Tkinter and python and C++**
