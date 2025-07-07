@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshia</h1>
+<h1 align="center">Hi 👋, I'm Arshiya</h1>
 <h3 align="center">A passionate computer engineering student from Iran</h3>
 
 <img align="right" alt="Chillguy" width=400 src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
@@ -9,7 +9,7 @@
 
 - 📚 I'm currently busy with university courses.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arshia-Danandeh](https://github.com/Arshia-Danandeh)
+- 👨‍💻 All of my projects are available at [https://github.com/Arshia-Danandeh](https://github.com/Arshiya-Danandeh)
 
 - 💬 Ask me about **Tkinter and python and C++**
 
